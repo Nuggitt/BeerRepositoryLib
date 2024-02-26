@@ -31,7 +31,6 @@
             }
         }
 
-
         public void ValidateAbv()
         {
             if (Abv < 0)
